@@ -27,7 +27,8 @@ model.compile(loss='binary_crossentropy', optimizer=optimizer)
 model.fit(data,label,epochs=50)
 model.save('training_model.h5')
 
-
+#letrongan
+#update
 
 
 
